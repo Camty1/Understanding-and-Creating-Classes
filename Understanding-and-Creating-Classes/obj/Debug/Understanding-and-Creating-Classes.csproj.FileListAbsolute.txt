@@ -1,0 +1,6 @@
+C:\Users\cwolf_000\Documents\GitHub\Understanding-and-Creating-Classes\Understanding-and-Creating-Classes\bin\Debug\Understanding-and-Creating-Classes.exe.config
+C:\Users\cwolf_000\Documents\GitHub\Understanding-and-Creating-Classes\Understanding-and-Creating-Classes\bin\Debug\Understanding-and-Creating-Classes.exe
+C:\Users\cwolf_000\Documents\GitHub\Understanding-and-Creating-Classes\Understanding-and-Creating-Classes\bin\Debug\Understanding-and-Creating-Classes.pdb
+C:\Users\cwolf_000\Documents\GitHub\Understanding-and-Creating-Classes\Understanding-and-Creating-Classes\obj\Debug\Understanding-and-Creating-Classes.csprojResolveAssemblyReference.cache
+C:\Users\cwolf_000\Documents\GitHub\Understanding-and-Creating-Classes\Understanding-and-Creating-Classes\obj\Debug\Understanding-and-Creating-Classes.exe
+C:\Users\cwolf_000\Documents\GitHub\Understanding-and-Creating-Classes\Understanding-and-Creating-Classes\obj\Debug\Understanding-and-Creating-Classes.pdb
